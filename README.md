@@ -70,6 +70,6 @@ To run this game correctly, configure the **Bitmap Display** tool in MARS as fol
 ## 📖 Theoretical Foundation
 
 This project serves as a practical implementation of core principles detailed in:
-Digital Design and Computer Architecture* by Harris & Harris.
-Computer Organization and Design: The Hardware/Software Interface* by Patterson & Hennessy.
-Computer Organization and Architecture* by Stallings.
+Digital Design and Computer Architecture by Harris & Harris.
+Computer Organization and Design: The Hardware/Software Interface by Patterson & Hennessy.
+Computer Organization and Architecture by Stallings.
